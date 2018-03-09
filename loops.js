@@ -10,3 +10,4 @@ function forLoop (arrString) {
   }
   return arrString;
 }
+
