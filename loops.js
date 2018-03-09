@@ -1,3 +1,5 @@
+var arrString = [];
+
 function forLoop (arrString) {
   for (let i = 0; i < 25; i++) {
     if (i === 0) {
