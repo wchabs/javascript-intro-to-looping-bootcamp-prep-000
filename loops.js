@@ -8,4 +8,5 @@ function forLoop (arrString) {
       arrString.push(`"I am ${i} strange loops."`);
     }
   }
+  return arrString;
 }
