@@ -12,9 +12,11 @@ function forLoop (arrString) {
 }
 
 function whileLoop (num) {
+  console.log(num);
   while (num > 0) {
+    num--
     console.log(num);
-    num--;
+    /num--;
   }
   return "done";
 }
