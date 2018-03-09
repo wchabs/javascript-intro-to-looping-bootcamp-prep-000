@@ -13,9 +13,9 @@ function forLoop (arrString) {
 
 function whileLoop (num) {
   while (num > 0) {
-    num--;
     console.log(num);
-    //num--;
+    num--;
   }
   return "done";
 }
+
